@@ -1,2 +1,3 @@
 # Google App Engine generated folder
 target/*
+.DS_Store
